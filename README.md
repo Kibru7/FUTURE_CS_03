@@ -1,4 +1,4 @@
-Project title: API Security Risk Analysis (Nationalize.io)
+Project title: API Security Risk Analysis (Modern SaaS Skill)
 
 Project Overview
 This repository contains a security risk analysis of the public API Nationalize.io (https://api.nationalize.io). Testing was performed using Postman and Browser DevTools to observe security-relevant behaviors such as CORS configuration, rate limiting, caching, and input handling.
